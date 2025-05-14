@@ -13,6 +13,7 @@ Author URI: http://ma.tt/
 */
 
 // Do not load directly.
+// this is just test commit and has nothing to do
 if ( ! defined( 'ABSPATH' ) ) {
 	die();
 }
